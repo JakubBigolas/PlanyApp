@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\PlanyApp\\PlanyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\calendar_date_picker_dialog.xml",
+        "source": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\PlanyApp\\PlanyApp\\app\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.5.3\\res\\layout-sw600dp-v13\\calendar_date_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\Plany\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\three_keys_view.xml",
+        "source": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\Plany\\app\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.5.3\\res\\layout-sw600dp-v13\\three_keys_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\Plany\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\three_keys_view_leftright.xml",
+        "source": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\Plany\\app\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.5.3\\res\\layout-sw600dp-v13\\three_keys_view_leftright.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\PlanyApp\\PlanyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\three_keys_view_leftright.xml",
+        "source": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\PlanyApp\\PlanyApp\\app\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.5.3\\res\\layout-sw600dp-v13\\three_keys_view_leftright.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\Plany\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\three_keys_view_right_drawable.xml",
+        "source": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\Plany\\app\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.5.3\\res\\layout-sw600dp-v13\\three_keys_view_right_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\PlanyApp\\PlanyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\three_keys_view_right_drawable.xml",
+        "source": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\PlanyApp\\PlanyApp\\app\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.5.3\\res\\layout-sw600dp-v13\\three_keys_view_right_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\PlanyApp\\PlanyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\PlanyApp\\PlanyApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\Plany\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\Plany\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\Plany\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\three_keys_view_text.xml",
+        "source": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\Plany\\app\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.5.3\\res\\layout-sw600dp-v13\\three_keys_view_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\Plany\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\calendar_date_picker_dialog.xml",
+        "source": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\Plany\\app\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.5.3\\res\\layout-sw600dp-v13\\calendar_date_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\PlanyApp\\PlanyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\three_keys_view.xml",
+        "source": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\PlanyApp\\PlanyApp\\app\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.5.3\\res\\layout-sw600dp-v13\\three_keys_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\PlanyApp\\PlanyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\three_keys_view_text.xml",
+        "source": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\PlanyApp\\PlanyApp\\app\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.5.3\\res\\layout-sw600dp-v13\\three_keys_view_text.xml"
+    }
+]

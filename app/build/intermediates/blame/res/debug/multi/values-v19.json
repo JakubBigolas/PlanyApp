@@ -1,0 +1,96 @@
+[
+    {
+        "outputFile": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\Plany\\app\\build\\intermediates\\res\\merged\\debug\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 12,
+                    "endColumn": 13,
+                    "endOffset": 560
+                },
+                "from": {
+                    "file": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\Plany\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 13,
+                        "endColumn": 13,
+                        "endOffset": 574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 565,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 945
+                },
+                "from": {
+                    "file": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\Plany\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 584,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 973
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\PlanyApp\\PlanyApp\\app\\build\\intermediates\\res\\merged\\debug\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 12,
+                    "endColumn": 13,
+                    "endOffset": 560
+                },
+                "from": {
+                    "file": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\PlanyApp\\PlanyApp\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 13,
+                        "endColumn": 13,
+                        "endOffset": 574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 565,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 945
+                },
+                "from": {
+                    "file": "C:\\Users\\Jakub\\Desktop\\Plany-repo\\PlanyApp\\PlanyApp\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 584,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 973
+                    }
+                }
+            }
+        ]
+    }
+]
