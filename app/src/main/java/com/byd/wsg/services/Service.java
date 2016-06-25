@@ -439,6 +439,7 @@ public class Service extends android.app.Service {
                 return TaskStatus.UNEXPECTED_ERROR;
             if (isAborted()) return null;
             Calendar timeFrom = resetTime(Calendar.getInstance());
+            timeFrom.set(timeFrom.get(Calendar.YEAR), timeFrom.get(Calendar.MONTH), 1, 0, 0, 0);
             timeFrom.add(Calendar.DAY_OF_MONTH, -(getConvertedDay(timeFrom) - 1));
             Calendar timeTo = resetTimeToEnd(Calendar.getInstance());
             timeTo.set(timeTo.get(Calendar.YEAR), timeTo.get(Calendar.MONTH) + 1, 1, 0, 0, 0);
